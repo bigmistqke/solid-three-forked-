@@ -1,0 +1,22 @@
+{
+  "name": "solid-three",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^2.8.6",
+    "vite-plugin-solid": "^2.2.6"
+  },
+  "dependencies": {
+    "solid-js": " 1.7.3",
+    "solid-three": "0.1.0",
+    "three": "0.139.2"
+  },
+  "keywords": []
+}
